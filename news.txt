@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
-Breaking news! This morning the major of Atlantis
+Breaking news! This afternoon the major of Atlantis
+<<<<<<< HEAD
 started ranting about free commerce
 
